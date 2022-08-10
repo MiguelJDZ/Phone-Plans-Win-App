@@ -1,0 +1,12 @@
+C:\C#\CellPhoneApp\CellPhoneApp\bin\Debug\CellPhoneApp.exe.config
+C:\C#\CellPhoneApp\CellPhoneApp\bin\Debug\CellPhoneApp.exe
+C:\C#\CellPhoneApp\CellPhoneApp\bin\Debug\CellPhoneApp.pdb
+C:\C#\CellPhoneApp\CellPhoneApp\obj\Debug\CellPhoneApp.PackagesForm.resources
+C:\C#\CellPhoneApp\CellPhoneApp\obj\Debug\CellPhoneApp.Properties.Resources.resources
+C:\C#\CellPhoneApp\CellPhoneApp\obj\Debug\CellPhoneApp.csproj.GenerateResource.cache
+C:\C#\CellPhoneApp\CellPhoneApp\obj\Debug\CellPhoneApp.csproj.CoreCompileInputs.cache
+C:\C#\CellPhoneApp\CellPhoneApp\obj\Debug\CellPhoneApp.exe
+C:\C#\CellPhoneApp\CellPhoneApp\obj\Debug\CellPhoneApp.pdb
+C:\C#\CellPhoneApp\CellPhoneApp\obj\Debug\CellPhoneApp.IndividualForm.resources
+C:\C#\CellPhoneApp\CellPhoneApp\obj\Debug\CellPhoneApp.FamilyForm.resources
+C:\C#\CellPhoneApp\CellPhoneApp\obj\Debug\CellPhoneApp.csproj.AssemblyReference.cache
