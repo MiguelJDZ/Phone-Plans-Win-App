@@ -1,12 +1,3 @@
-﻿/*
- * File: IndividualForm.cs
- * Author: Miguel Duran 841-17-1372
- * Course: COTI 4150-KJ1 Prof. Antonio F. Huertas
- * Date: 03/27/2021
- * Purpose: This form calculates the subtotal, tax, 
- *          total, options, package charge and monthly charge.
- */
-
 using System;
 using System.Windows.Forms;
 
